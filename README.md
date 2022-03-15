@@ -3,7 +3,7 @@ https://linktr.ee/VirusPloit
 ### Hey,[VirusPloit here!](https://www.youtube.com/channel/UCWZrsAPBAToJdGQ1QPnsFSg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> [![Gmail Badge](https://img.shields.io/badge/-closploit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:closploit@gmail.com)](mailto:closploit@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-ClosPloit-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCUzmzFMZ8cxN_wTsEajvXaA)](https://www.youtube.com/channel/UCUzmzFMZ8cxN_wTsEajvXaA)
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> [![Gmail Badge](https://img.shields.io/badge/-virusploit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:virusploit@gmail.com)](mailto:virusploit@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-VirusPloit-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCUzmzFMZ8cxN_wTsEajvXaA)](https://www.youtube.com/channel/UCUzmzFMZ8cxN_wTsEajvXaA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VirusPloit" alt="VirusPloit" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
@@ -45,7 +45,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  
 ## Current Works
  * I'm currently working on 🔭 building **My Portfolio Site** and working up on my skills 🌱 in **Competitive Programming**.
- * Also, I've got a **Youtube Channel, [VirusPloit](https://www.youtube.com/channel/UCWZrsAPBAToJdGQ1QPnsFSg)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
+ * Also, I've got a **Youtube Channel, [VirusPloit](https://www.youtube.com/channel/UCWZrsAPBAToJdGQ1QPnsFSg)**. Be sure to check it out as I keep posting videos about a variety of things, about various Technologies.
  
 ## Other Stuff
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
